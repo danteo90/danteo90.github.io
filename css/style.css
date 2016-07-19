@@ -80,6 +80,10 @@
 		font-size: 1.15em;
 		letter-spacing: 0.025em;
 	}
+	
+		h3 cent{
+			text-align: center;
+		}
 
 	sub {
 		font-size: 0.8em;
