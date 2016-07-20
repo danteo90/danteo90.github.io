@@ -381,11 +381,18 @@ kirk {
     height:50px;
     margin-left:10px;
     margin-right:10px;
+    margin-bottom:5px;
+    margin-top:5px;
     position:relative;
 }
+	kirk h3 {
+		font-size: 1.0em;
+		letter-spacing: 0.025em;
+		line-height: 1.25em;
+	}
 
 a:hover + kirk {
-    display: inline;
+    display: block;
 }​
 
 /* List */
