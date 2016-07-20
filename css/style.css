@@ -389,13 +389,34 @@ kirk {
     display: none;
     border:1px solid #7c8081;
     height:50px;
-    margin-left:-15px;
-    margin-right:-15px;
-    margin-bottom:0px;
+    margin-left:-20px;
+    margin-right:-20px;
+    margin-bottom:15px;
     margin-top:5px;
     position:relative;
 }
 	kirk h3 {
+		font-size: 1.0em;
+		letter-spacing: 0.025em;
+		line-height: 1.25em;
+	}
+
+a:hover + kirk {
+    display: block;
+}​
+
+kirk2 {
+    display: none;
+    border:1px solid #7c8081;
+    height:50px;
+    margin-left:-20px;
+    margin-right:-20px;
+    margin-bottom:0px;
+    margin-top:5px;
+    position:relative;
+}
+
+	kirk2 h3 {
 		font-size: 1.0em;
 		letter-spacing: 0.025em;
 		line-height: 1.25em;
