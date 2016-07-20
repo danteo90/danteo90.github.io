@@ -274,6 +274,16 @@
 				display: block;
 				width: 100%;
 			}
+			
+		.image.newfit {
+			display: block;
+			margin: 0 0 0.5em 0;
+		}
+
+			.image.newfit img {
+				display: block;
+				width: 100%;
+			}
 
 /* Icon */
 
