@@ -284,6 +284,10 @@
 				display: block;
 				width: 100%;
 			}
+			
+			.image.newfit hover:img {
+				opacity:0.5;
+			}
 
 /* Icon */
 
