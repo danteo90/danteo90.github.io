@@ -385,7 +385,7 @@ kirk {
 }
 
 a:hover + kirk {
-    display: block;
+    display: inline;
 }​
 
 /* List */
