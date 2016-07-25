@@ -414,7 +414,7 @@ kirk {
 
 a:hover + kirk {
     display: block;
-}​
+}
 
 kirk2 {
     display: none;
@@ -422,7 +422,7 @@ kirk2 {
     height:50px;
     margin-left:-20px;
     margin-right:-20px;
-    margin-bottom:0px;
+    margin-bottom:15px;
     margin-top:5px;
     position:relative;
 }
