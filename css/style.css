@@ -81,6 +81,12 @@
 		letter-spacing: 0.025em;
 		text-align: center;
 	}
+	
+	h4 {
+		font-size: 1.75em;
+		letter-spacing: 0.1em;
+		text-align: center;
+	}
 
 	sub {
 		font-size: 0.8em;
