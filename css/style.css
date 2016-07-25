@@ -87,6 +87,12 @@
 		letter-spacing: 0.1em;
 		text-align: center;
 	}
+	
+	h5 {
+		font-size: 1em;
+		letter-spacing: 0.1em;
+		text-align: center;
+	}
 
 	sub {
 		font-size: 0.8em;
