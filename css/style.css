@@ -434,7 +434,7 @@ kirk2 {
 		margin-bottom:0;
 	}
 
-a:hover + kirk {
+a:hover + kirk2 {
     display: block;
 }​
 
